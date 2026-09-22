@@ -49,7 +49,8 @@ To evaluate regression robustness, RMSE (Root Mean Squared Error) and $R^2$ Scor
 - View live tracking metrics, runs, and system telemetry interactively via the [Weights & Biases Public Dashboard](https://wandb.ai/mehdifr24-/nasa-jet-engine-rul)[cite: 20].
 
 ### 📉 Feature Importance
-*(Insert your feature importance visualization screenshot here)*[cite: 11]
+<img width="734" height="468" alt="image" src="https://github.com/user-attachments/assets/f150ed57-a23f-4303-b226-ee84f97e910a" />
+
 
 - **Streamlit App Preview:**  
   ![Streamlit Dashboard Preview](https://predictivemaintenancepipeline-gdf6tjoqmwt25mjelftkus.streamlit.app)[cite: 11]
