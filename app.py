@@ -15,7 +15,7 @@ st.write("Upload engine sensor data to predict Remaining Useful Life (RUL).")
 # 3. Download and Load the saved model using joblib
 @st.cache_resource
 def get_model():
-    model_path = 'nasa_rul_model.pkl
+    model_path = 'nasa_rul_model.pkl'
     model_url = "https://github.com/mehdifr24/predictive_maintenance_pipeline/releases/download/v1.0/nasa_rul_model.pkl"  
     
     if not os.path.exists(model_path):
