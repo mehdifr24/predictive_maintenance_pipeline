@@ -3,7 +3,7 @@
 ## 📖 About
 This project demonstrates a production-grade, end-to-end Machine Learning workflow and software deployment for predicting the Remaining Useful Life (RUL) of turbofan engines using NASA's C-MAPSS (FD001) time-series sensor dataset[cite: 11]. The pipeline handles core industrial challenges such as multi-sensor telemetry processing, non-linear degradation modeling, strict data leakage prevention, and robust model serialization[cite: 11]. Finally, the optimized standalone model is deployed to a public-facing web application via Streamlit Community Cloud and GitHub Releases[cite: 11].
 
-🔗 **[Live Streamlit Web Application](https://predictivemaintenancepipeline-cjmgrwiulqrmgkvb7rlhfh.streamlit.app)**[cite: 11]  
+🔗 **[Live Streamlit Web Application](https://predictivemaintenancepipeline-gdf6tjoqmwt25mjelftkus.streamlit.app)**[cite: 11]  
 📊 **[Weights & Biases Public Dashboard](https://wandb.ai/mehdifr24-/nasa-jet-engine-rul)**[cite: 20]
 
 ---
@@ -52,7 +52,7 @@ To evaluate regression robustness, RMSE (Root Mean Squared Error) and $R^2$ Scor
 *(Insert your feature importance visualization screenshot here)*[cite: 11]
 
 - **Streamlit App Preview:**  
-  ![Streamlit Dashboard Preview](https://predictivemaintenancepipeline-cjmgrwiulqrmgkvb7rlhfh.streamlit.app)[cite: 11]
+  ![Streamlit Dashboard Preview](https://predictivemaintenancepipeline-gdf6tjoqmwt25mjelftkus.streamlit.app)[cite: 11]
 
 ---
 
